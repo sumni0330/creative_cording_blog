@@ -6,7 +6,8 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# This is h1
+# Creating a Grid of Squares Using Nested For Loops in p5.js
+In p5.js, one of the most fundamental and visually impactful things you can do is draw a grid of shapes. This is particularly useful for creating patterns, backgrounds, or even game boards. Here, we'll explore how to create a grid of squares using nested for loops, which is an efficient way to manage repeating elements across the two-dimensional canvas space.
 
 ![a drippy lemon](logo.svg)
 
